@@ -51,14 +51,8 @@
 
 ## 🚀 현재 진행 중인 프로젝트
 
-### 🎮 [Storyfy](https://github.com/elrien-ai/storyfy)
-Rust + Bevy 기반 비주얼 노벨 엔진. WASM 지원과 크로스 플랫폼을 목표로 하느니라.
-
-**주요 기능:**
-- 🎨 유연한 레이아웃 시스템 (flex-based positioning)
-- 💾 세이브/로드 시스템 with error handling
-- 🎵 오디오 재생 & 페이드 효과
-- 🌐 WASM 웹 플랫폼 지원
+### 🎮 비공개 게임 개발 프로젝트
+Rust + Bevy 기반으로 게임 개발을 진행 중이니라. 자세한 내용은 비공개!
 
 ### 🌐 [무라사메의 정원](https://murasame.alien.moe)
 Astro + React 기반 개인 블로그. 기술 삽질기와 일상을 기록하느니라.
